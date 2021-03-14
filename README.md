@@ -2,10 +2,10 @@
 
 This is a 20% point exercise in Design Pattern subject
 
-## 1. Design Pattern:
+## 1. Data Access Object Patternn:
 
-An introduction to the design pattern and its applications
-Presenting the contents of the design pattern, the steps to form the design pattern
+An introduction to the Data Access Object Patternn and its applications
+Presenting the contents of the Data Access Object Patternn, the steps to form the design pattern
 Attached is an illustrative example (source code is located in part 3)
 
 ## 2. Builder Pattern:
